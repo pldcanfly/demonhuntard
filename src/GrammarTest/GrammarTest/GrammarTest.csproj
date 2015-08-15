@@ -46,10 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GrammarAnalyzer.cs" />
-    <Compile Include="GrammarConstants.cs" />
-    <Compile Include="GrammarParser.cs" />
-    <Compile Include="GrammarTokenizer.cs" />
+    <Compile Include="generated\GrammarAnalyzer.cs" />
+    <Compile Include="generated\GrammarConstants.cs" />
+    <Compile Include="generated\GrammarParser.cs" />
+    <Compile Include="generated\GrammarTokenizer.cs" />
+    <Compile Include="IllidariRunes.cs" />
+    <Compile Include="IllidariTemplates.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

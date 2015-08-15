@@ -1,6 +1,5 @@
 ﻿using PerCederberg.Grammatica.Runtime;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -9,11 +8,15 @@ using System.Threading.Tasks;
 
 namespace IllidariRunes
 {
-    class Program
+    class IllidariTemplates
     {
-        static void Main(string[] args)
+
+        public IllidariTemplates(string input)
         {
-            IllidariTemplates temps = new IllidariTemplates("<html><title>Hallo</title><body>Hallo Welt!</body></html>");
+            Parser parser = null;
+            parser = new GrammarParser(new StringReader(input), new IllidariRunes());
+            parser.Parse();
         }
+
     }
 }
