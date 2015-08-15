@@ -7,3 +7,7 @@ D:\demonhunter\src\GrammarTest\GrammarTest\obj\Debug\IllidariRunes.pdb
 D:\demonhunter\src\IllidariRunes\bin\Debug\IllidariRunes.exe.config
 D:\demonhunter\src\IllidariRunes\obj\Debug\IllidariRunes.exe
 D:\demonhunter\src\IllidariRunes\obj\Debug\IllidariRunes.pdb
+D:\demonhunter\src\IllidariRunes\obj\Debug\IllidariRunes.csprojResolveAssemblyReference.cache
+D:\demonhunter\src\IllidariRunes\bin\Debug\IllidariRunes.exe
+D:\demonhunter\src\IllidariRunes\bin\Debug\IllidariRunes.pdb
+D:\demonhunter\src\IllidariRunes\bin\Debug\grammatica-1.6.dll
