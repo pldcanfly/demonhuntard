@@ -4,31 +4,31 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using BlackTemple.Messages;
 
 namespace BlackTemple
 {
     class Sewers
     {
         HttpListener _listener;
+        Sender _messages;
 
         public Sewers()
         {
             _listener = new HttpListener();
             string prefix = "http://*:81/";
             _listener.Prefixes.Add(prefix);
+            _messages = new Sender();
 
             try
             {
                _listener.Start();
-                
                 while (true)
                 {
+                    System.Console.WriteLine("Listening");
                     IAsyncResult result = _listener.BeginGetContext(new AsyncCallback(ListenerCallback), _listener);
                     result.AsyncWaitHandle.WaitOne();
-                    System.Console.WriteLine("Listening");
                 }
-                
-
             } catch (Exception e)
             {
                 Console.WriteLine(e.Message);
@@ -40,13 +40,11 @@ namespace BlackTemple
         private void ListenerCallback(IAsyncResult result)
         {
             HttpListenerContext context = _listener.EndGetContext(result);
-            //Logger.logMsg("Context: End; " + context.Request.RemoteEndPoint.Address + " requesting " + context.Request.RawUrl, 2);
-
 
             try
             {
                 HttpListenerRequest request = context.Request;
-
+                this._messages.Send("CONNECTION", context.Request.RawUrl);
                 System.Console.WriteLine(context.Request.RawUrl);
 
                 HttpListenerResponse response = context.Response;
@@ -59,7 +57,6 @@ namespace BlackTemple
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
-
             }
         }
 

@@ -4,3 +4,6 @@ D:\demonhunter\src\BlackTemple\bin\Debug\BlackTemple.exe
 D:\demonhunter\src\BlackTemple\bin\Debug\BlackTemple.pdb
 D:\demonhunter\src\BlackTemple\obj\Debug\BlackTemple.exe
 D:\demonhunter\src\BlackTemple\obj\Debug\BlackTemple.pdb
+D:\demonhunter\src\BlackTemple\bin\Debug\protobuf-net.dll
+D:\demonhunter\src\BlackTemple\bin\Debug\protobuf-net.pdb
+D:\demonhunter\src\BlackTemple\bin\Debug\protobuf-net.xml

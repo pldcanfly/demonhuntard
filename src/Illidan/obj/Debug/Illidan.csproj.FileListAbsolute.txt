@@ -1,1 +1,9 @@
 D:\demonhunter\src\Illidan\bin\Debug\Illidan.exe.config
+D:\demonhunter\src\Illidan\bin\Debug\Illidan.exe
+D:\demonhunter\src\Illidan\bin\Debug\Illidan.pdb
+D:\demonhunter\src\Illidan\bin\Debug\protobuf-net.dll
+D:\demonhunter\src\Illidan\bin\Debug\protobuf-net.pdb
+D:\demonhunter\src\Illidan\bin\Debug\protobuf-net.xml
+D:\demonhunter\src\Illidan\obj\Debug\Illidan.csprojResolveAssemblyReference.cache
+D:\demonhunter\src\Illidan\obj\Debug\Illidan.exe
+D:\demonhunter\src\Illidan\obj\Debug\Illidan.pdb

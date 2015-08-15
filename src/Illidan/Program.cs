@@ -10,6 +10,8 @@ namespace Illidan
     {
         static void Main(string[] args)
         {
+            new Illidan(1337);
+            System.Console.ReadKey();
         }
     }
 }
