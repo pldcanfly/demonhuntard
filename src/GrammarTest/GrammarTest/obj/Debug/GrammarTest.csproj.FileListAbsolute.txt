@@ -1,0 +1,7 @@
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\GrammarTest.exe.config
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\GrammarTest.exe
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\GrammarTest.pdb
+D:\demonhunter\src\GrammarTest\GrammarTest\obj\Debug\GrammarTest.exe
+D:\demonhunter\src\GrammarTest\GrammarTest\obj\Debug\GrammarTest.pdb
+D:\demonhunter\src\GrammarTest\GrammarTest\obj\Debug\GrammarTest.csprojResolveAssemblyReference.cache
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\grammatica-1.6.dll

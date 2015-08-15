@@ -1,0 +1,18 @@
+%header%
+GRAMMARTYPE = "LL"
+
+%tokens%
+
+NUMBER                       = <<[0-9]+>>
+CHARACTER                    = <<[a-zA-Z]+>>
+WHITESPACE                   = <<[ \t\n\r]+>>
+EVERYTHING					 = <<.>>
+
+%productions%
+
+
+DOCUMENT = 			TEXT+;
+TEXT = 				EVERYTHING
+					| CHARACTER
+					| NUMBER
+					| WHITESPACE;
