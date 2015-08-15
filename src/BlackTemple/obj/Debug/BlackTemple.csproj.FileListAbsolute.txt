@@ -1,0 +1,6 @@
+D:\demonhunter\src\BlackTemple\bin\Debug\BlackTemple.exe.config
+D:\demonhunter\src\BlackTemple\obj\Debug\BlackTemple.csprojResolveAssemblyReference.cache
+D:\demonhunter\src\BlackTemple\bin\Debug\BlackTemple.exe
+D:\demonhunter\src\BlackTemple\bin\Debug\BlackTemple.pdb
+D:\demonhunter\src\BlackTemple\obj\Debug\BlackTemple.exe
+D:\demonhunter\src\BlackTemple\obj\Debug\BlackTemple.pdb
