@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrammarTest", "GrammarTest\GrammarTest.csproj", "{66119228-3CD2-4E2C-9413-C1D1B4638664}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IllidariRunes", "IllidariRunes\IllidariRunes.csproj", "{66119228-3CD2-4E2C-9413-C1D1B4638664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

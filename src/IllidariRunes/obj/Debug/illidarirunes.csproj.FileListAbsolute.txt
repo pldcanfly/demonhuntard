@@ -1,0 +1,9 @@
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\IllidariRunes.exe.config
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\IllidariRunes.exe
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\IllidariRunes.pdb
+D:\demonhunter\src\GrammarTest\GrammarTest\bin\Debug\grammatica-1.6.dll
+D:\demonhunter\src\GrammarTest\GrammarTest\obj\Debug\IllidariRunes.exe
+D:\demonhunter\src\GrammarTest\GrammarTest\obj\Debug\IllidariRunes.pdb
+D:\demonhunter\src\IllidariRunes\bin\Debug\IllidariRunes.exe.config
+D:\demonhunter\src\IllidariRunes\obj\Debug\IllidariRunes.exe
+D:\demonhunter\src\IllidariRunes\obj\Debug\IllidariRunes.pdb
