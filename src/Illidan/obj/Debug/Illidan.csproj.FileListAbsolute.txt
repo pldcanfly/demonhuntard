@@ -7,3 +7,6 @@ D:\demonhunter\src\Illidan\bin\Debug\protobuf-net.xml
 D:\demonhunter\src\Illidan\obj\Debug\Illidan.csprojResolveAssemblyReference.cache
 D:\demonhunter\src\Illidan\obj\Debug\Illidan.exe
 D:\demonhunter\src\Illidan\obj\Debug\Illidan.pdb
+D:\demonhunter\src\Illidan\bin\Debug\Newtonsoft.Json.dll
+D:\demonhunter\src\Illidan\bin\Debug\Newtonsoft.Json.pdb
+D:\demonhunter\src\Illidan\bin\Debug\Newtonsoft.Json.xml

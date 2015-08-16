@@ -36,6 +36,12 @@
     <Reference Include="grammatica-1.6">
       <HintPath>..\..\grammatica-1.6\lib\grammatica-1.6.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\libs\JSON.net\Bin\Net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>..\..\libs\protobuf-net\protobuf-net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -52,6 +58,7 @@
     <Compile Include="generated\GrammarTokenizer.cs" />
     <Compile Include="IllidariRunes.cs" />
     <Compile Include="IllidariTemplates.cs" />
+    <Compile Include="Messages\Demonic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

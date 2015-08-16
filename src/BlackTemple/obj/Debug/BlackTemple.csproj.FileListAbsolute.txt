@@ -7,3 +7,6 @@ D:\demonhunter\src\BlackTemple\obj\Debug\BlackTemple.pdb
 D:\demonhunter\src\BlackTemple\bin\Debug\protobuf-net.dll
 D:\demonhunter\src\BlackTemple\bin\Debug\protobuf-net.pdb
 D:\demonhunter\src\BlackTemple\bin\Debug\protobuf-net.xml
+D:\demonhunter\src\BlackTemple\bin\Debug\Newtonsoft.Json.dll
+D:\demonhunter\src\BlackTemple\bin\Debug\Newtonsoft.Json.pdb
+D:\demonhunter\src\BlackTemple\bin\Debug\Newtonsoft.Json.xml

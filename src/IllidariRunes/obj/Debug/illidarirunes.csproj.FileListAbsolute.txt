@@ -11,3 +11,9 @@ D:\demonhunter\src\IllidariRunes\obj\Debug\IllidariRunes.csprojResolveAssemblyRe
 D:\demonhunter\src\IllidariRunes\bin\Debug\IllidariRunes.exe
 D:\demonhunter\src\IllidariRunes\bin\Debug\IllidariRunes.pdb
 D:\demonhunter\src\IllidariRunes\bin\Debug\grammatica-1.6.dll
+D:\demonhunter\src\IllidariRunes\bin\Debug\protobuf-net.dll
+D:\demonhunter\src\IllidariRunes\bin\Debug\protobuf-net.pdb
+D:\demonhunter\src\IllidariRunes\bin\Debug\protobuf-net.xml
+D:\demonhunter\src\IllidariRunes\bin\Debug\Newtonsoft.Json.dll
+D:\demonhunter\src\IllidariRunes\bin\Debug\Newtonsoft.Json.pdb
+D:\demonhunter\src\IllidariRunes\bin\Debug\Newtonsoft.Json.xml

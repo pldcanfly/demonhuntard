@@ -2,16 +2,21 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace IllidariRunes
 {
+    
+
     class IllidariRunes : GrammarAnalyzer
     {
+        public string HTML = "";
+
         public override Node ExitDocument(Production node)
         {
-            System.Console.ReadKey();
+            //System.Console.ReadKey();
             return base.ExitDocument(node);
         }
 
@@ -21,7 +26,8 @@ namespace IllidariRunes
             for (int i = 0; i < node.GetChildCount(); i++)
             {
                 child = node.GetChildAt(i);
-                System.Console.WriteLine(child.GetValue(0));
+                HTML = HTML + child.GetValue(0);
+                //System.Console.WriteLine();
             }
 
             return base.ExitText(node);

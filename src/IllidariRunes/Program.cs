@@ -13,7 +13,8 @@ namespace IllidariRunes
     {
         static void Main(string[] args)
         {
-            IllidariTemplates temps = new IllidariTemplates("<html><title>Hallo</title><body>Hallo Welt!</body></html>");
+            IllidariTemplates temps = new IllidariTemplates();
+            System.Console.ReadKey();
         }
     }
 }
