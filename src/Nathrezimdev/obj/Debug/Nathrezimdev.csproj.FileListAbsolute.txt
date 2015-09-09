@@ -1,0 +1,13 @@
+D:\demonhunter\src\Nathrezimdev\bin\Debug\Nathrezimdev.exe.config
+D:\demonhunter\src\Nathrezimdev\bin\Debug\Nathrezimdev.exe
+D:\demonhunter\src\Nathrezimdev\bin\Debug\Nathrezimdev.pdb
+D:\demonhunter\src\Nathrezimdev\bin\Debug\Newtonsoft.Json.dll
+D:\demonhunter\src\Nathrezimdev\bin\Debug\protobuf-net.dll
+D:\demonhunter\src\Nathrezimdev\bin\Debug\Newtonsoft.Json.pdb
+D:\demonhunter\src\Nathrezimdev\bin\Debug\Newtonsoft.Json.xml
+D:\demonhunter\src\Nathrezimdev\bin\Debug\protobuf-net.pdb
+D:\demonhunter\src\Nathrezimdev\bin\Debug\protobuf-net.xml
+D:\demonhunter\src\Nathrezimdev\obj\Debug\Nathrezimdev.csprojResolveAssemblyReference.cache
+D:\demonhunter\src\Nathrezimdev\obj\Debug\Nathrezimdev.exe
+D:\demonhunter\src\Nathrezimdev\obj\Debug\Nathrezimdev.pdb
+D:\demonhunter\src\Nathrezimdev\bin\Debug\config.json

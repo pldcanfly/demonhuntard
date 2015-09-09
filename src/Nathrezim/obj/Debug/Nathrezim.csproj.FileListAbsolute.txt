@@ -1,0 +1,5 @@
+D:\demonhunter\src\Nathrezim\bin\Debug\Nathrezim.dll
+D:\demonhunter\src\Nathrezim\bin\Debug\Nathrezim.pdb
+D:\demonhunter\src\Nathrezim\obj\Debug\Nathrezim.csprojResolveAssemblyReference.cache
+D:\demonhunter\src\Nathrezim\obj\Debug\Nathrezim.dll
+D:\demonhunter\src\Nathrezim\obj\Debug\Nathrezim.pdb
