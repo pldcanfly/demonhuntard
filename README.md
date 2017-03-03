@@ -1,6 +1,9 @@
 # Demonhunter
 
+# COMPLETE REWORK IN PROGRESS!
 ... is an attempt at creating a CMS based on c# thats scalar und fits the needs of modern webdevelopment. Heavily service-based and self repairing. ("Everything that can go wrong, will go wrong"- Assumption)
+
+
 
 Components:
 
